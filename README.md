@@ -1,0 +1,2 @@
+# semprull-paradise
+Template wordpress
